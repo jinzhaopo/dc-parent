@@ -5,7 +5,7 @@
 	<artifactId>dc-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<description>所有项目的父类,用于集中定义版本号随便改改</description>
+	<description>所有项目的父类,用于集中定义版本号 重新下载修改</description>
 
 	<!-- 集中定义依赖版本号 -->
 	<properties>
